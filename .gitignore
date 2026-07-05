@@ -1,2 +1,4 @@
 microgpt/input.txt
 microgpt/run.log
+prompts/
+.idea/
