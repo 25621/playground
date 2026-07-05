@@ -1,4 +1,5 @@
 microgpt/input.txt
+transformers/.venv/
 microgpt/run.log
 prompts/
 .idea/
